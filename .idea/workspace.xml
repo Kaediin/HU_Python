@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30d5a3f9-a51e-40b9-840f-c3dee8dac3f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_10/subject_10_1/JSON-stationlijstLezen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_10/subject_10_2/JSONFilesSchrijven.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_6/subject_6_3/filesAnalyseren.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_6/subject_6_3/pe_6_2_kaartnummers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_6/subject_6_4/fileSchrijven.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_6/subject_6_4/pe_6_4_kaartnummers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_7/subject_7_4/nestedLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_8/subject_8_1/whileLoopAndNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_8/subject_8_2/whileLoopAndStrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_8/subject_8_5/dictAndFunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_9/subject_9_5/userInputAndException.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_1/subject_1_3/statements.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_1/subject_1_4/booleanExpressions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_1/subject_1_4/booleanExpressions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter_3/subject_3_3/inputOutput.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_3/subject_3_3/inputOutput.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +43,7 @@
       <recent name="C:\Users\Skaed\PycharmProjects\HU\Chapter_6\subject_6_4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.userInputAndException">
+  <component name="RunManager" selected="Python.inputOutput">
     <configuration name="dictAndFunctions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HU" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nestedLoop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="inputOutput" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HU" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,12 +74,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_7/subject_7_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_3/subject_3_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_7/subject_7_4/nestedLoop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_3/subject_3_3/inputOutput.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.inputOutput" />
         <item itemvalue="Python.userInputAndException" />
         <item itemvalue="Python.dictAndFunctions" />
         <item itemvalue="Python.whileLoopAndStrings" />
         <item itemvalue="Python.whileLoopAndNumbers" />
-        <item itemvalue="Python.nestedLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -189,6 +175,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598964349087</updated>
       <workItem from="1598964351432" duration="11502000" />
+      <workItem from="1599138391353" duration="3190000" />
     </task>
     <servers />
   </component>
@@ -196,22 +183,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1598976084041">
+    <state width="1493" height="268" key="GridCell.Tab.0.bottom" timestamp="1599139871511">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598976084041" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1598976084041">
+    <state width="1493" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599139871511" />
+    <state width="1493" height="268" key="GridCell.Tab.0.center" timestamp="1599139871511">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598976084041" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1598976084041">
+    <state width="1493" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599139871511" />
+    <state width="1493" height="268" key="GridCell.Tab.0.left" timestamp="1599139871510">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598976084041" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1598976084041">
+    <state width="1493" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599139871510" />
+    <state width="1493" height="268" key="GridCell.Tab.0.right" timestamp="1599139871511">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598976084041" />
+    <state width="1493" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599139871511" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1599138459165">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -227,7 +214,7 @@
     <SUITE FILE_PATH="coverage/HU$whileLoopAndStrings.coverage" NAME="whileLoopAndStrings Coverage Results" MODIFIED="1598974973781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8/subject_8_2" />
     <SUITE FILE_PATH="coverage/HU$filesAnalyseren.coverage" NAME="filesAnalyseren Coverage Results" MODIFIED="1598972031976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/subject_6_3" />
     <SUITE FILE_PATH="coverage/HU$listsAndStrings.coverage" NAME="listsAndStrings Coverage Results" MODIFIED="1598964537260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/subject2_1" />
-    <SUITE FILE_PATH="coverage/HU$inputOutput.coverage" NAME="inputOutput Coverage Results" MODIFIED="1598966898345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/subject_3_3" />
+    <SUITE FILE_PATH="coverage/HU$inputOutput.coverage" NAME="inputOutput Coverage Results" MODIFIED="1599138744182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/subject_3_3" />
     <SUITE FILE_PATH="coverage/HU$fileSchrijven.coverage" NAME="fileSchrijven Coverage Results" MODIFIED="1598973567583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/subject_6_4" />
     <SUITE FILE_PATH="coverage/HU$booleanExpressions.coverage" NAME="booleanExpressions Coverage Results" MODIFIED="1598971706751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_1/subject_1_4" />
     <SUITE FILE_PATH="coverage/HU$functionImmutableParams.coverage" NAME="functionImmutableParams Coverage Results" MODIFIED="1598968109923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/subject_5_6" />
