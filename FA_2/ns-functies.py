@@ -1,4 +1,5 @@
 import random
+# TEST FUNCTIES STAAN ONDERAAN UITGECOMMENTARIEERD
 
 def standaardprijs(afstandKM):
     vasteKosten = 0
