@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="30d5a3f9-a51e-40b9-840f-c3dee8dac3f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FA_3/bagagekluizen.py" beforeDir="false" afterPath="$PROJECT_DIR$/FA_3/bagagekluizen.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +180,7 @@
       <workItem from="1599138391353" duration="3190000" />
       <workItem from="1599755601463" duration="9034000" />
       <workItem from="1600329608620" duration="6815000" />
-      <workItem from="1600344749398" duration="4133000" />
+      <workItem from="1600344749398" duration="4889000" />
     </task>
     <task id="LOCAL-00001" summary="Completed FA-2">
       <created>1599760599591</created>
@@ -211,7 +210,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600338593122</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="FA-3 Completed">
+      <created>1600348924356</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600348924356</updated>
+    </task>
+    <task id="LOCAL-00006" summary="FA-3 Completed">
+      <created>1600349050517</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600349050517</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,7 +233,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed FA-2" />
     <MESSAGE value="FA-3 W.I.P" />
-    <option name="LAST_COMMIT_MESSAGE" value="FA-3 W.I.P" />
+    <MESSAGE value="FA-3 Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="FA-3 Completed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Inspections" timestamp="1600348537705">
@@ -235,10 +249,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1650" y="451" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599764614133" />
-    <state x="787" y="14" key="CommitChangelistDialog2" timestamp="1600348923496">
+    <state x="787" y="14" key="CommitChangelistDialog2" timestamp="1600349049932">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="787" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600348923496" />
+    <state x="787" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600349049932" />
     <state x="1543" y="272" key="CommitChangelistDialog2/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599760598838" />
     <state width="1493" height="268" key="GridCell.Tab.0.bottom" timestamp="1600348907482">
       <screen x="0" y="0" width="1536" height="824" />
@@ -264,10 +278,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600329651949" />
-    <state x="722" y="257" key="Vcs.Push.Dialog.v2" timestamp="1600348926513">
+    <state x="722" y="257" key="Vcs.Push.Dialog.v2" timestamp="1600349051906">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="722" y="257" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600348926513" />
+    <state x="722" y="257" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600349051906" />
     <state x="1512" y="437" key="Vcs.Push.Dialog.v2/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599760601108" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1600344750366">
       <screen x="0" y="0" width="1536" height="824" />

@@ -91,6 +91,8 @@ def free_locker():
         if currentline.strip() != oldLine.strip():
             file.write(currentline)
 
+    print('Your locker is free and your information has been deleted!')
+
 choice = displaymenu()
 
 if choice == 1:
