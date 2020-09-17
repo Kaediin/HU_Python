@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30d5a3f9-a51e-40b9-840f-c3dee8dac3f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Sprint_1/sprint_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FA_3/bagagekluizen.py" beforeDir="false" afterPath="$PROJECT_DIR$/FA_3/bagagekluizen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FA_3/fa_kluizen" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
       <recent name="C:\Users\Skaed\PycharmProjects\HU\Chapter_10" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.bagagekluizen">
+  <component name="RunManager" selected="Python.sprint_1">
     <configuration name="bagagekluizen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HU" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,28 +83,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_6/subject_6_3/filesAnalyseren.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="inputOutput" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HU" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_3/subject_3_3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Skaed\PycharmProjects\HU_Python\FA_1\inputOutput.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,13 +135,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sprint_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HU" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sprint_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sprint_1/sprint_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sprint_1" />
         <item itemvalue="Python.bagagekluizen" />
         <item itemvalue="Python.kaartautomaat" />
         <item itemvalue="Python.ns-functies" />
         <item itemvalue="Python.filesAnalyseren" />
-        <item itemvalue="Python.inputOutput" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +181,7 @@
       <workItem from="1599138391353" duration="3190000" />
       <workItem from="1599755601463" duration="9034000" />
       <workItem from="1600329608620" duration="6815000" />
-      <workItem from="1600344749398" duration="7331000" />
+      <workItem from="1600344749398" duration="8085000" />
     </task>
     <task id="LOCAL-00001" summary="Completed FA-2">
       <created>1599760599591</created>
@@ -240,7 +239,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600351560899</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="FA-3">
+      <created>1600352320508</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600352320508</updated>
+    </task>
+    <task id="LOCAL-00010" summary="FA-2 error catching">
+      <created>1600352506897</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600352506897</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +264,9 @@
     <MESSAGE value="FA-3 W.I.P" />
     <MESSAGE value="FA-3 Completed" />
     <MESSAGE value="FA-4 Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="FA-4 Completed" />
+    <MESSAGE value="FA-3" />
+    <MESSAGE value="FA-2 error catching" />
+    <option name="LAST_COMMIT_MESSAGE" value="FA-2 error catching" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Inspections" timestamp="1600348537705">
@@ -267,39 +282,39 @@
     </state>
     <state x="990" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600352173910" />
     <state x="1650" y="451" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599764614133" />
-    <state x="787" y="14" key="CommitChangelistDialog2" timestamp="1600352319622">
+    <state x="787" y="14" key="CommitChangelistDialog2" timestamp="1600352505893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="787" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600352319622" />
+    <state x="787" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600352505893" />
     <state x="1543" y="272" key="CommitChangelistDialog2/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599760598838" />
-    <state width="1493" height="268" key="GridCell.Tab.0.bottom" timestamp="1600352211367">
+    <state width="1493" height="268" key="GridCell.Tab.0.bottom" timestamp="1600353048676">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600352211367" />
+    <state width="1493" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600353048676" />
     <state width="1235" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599764669748" />
-    <state width="1493" height="268" key="GridCell.Tab.0.center" timestamp="1600352211367">
+    <state width="1493" height="268" key="GridCell.Tab.0.center" timestamp="1600353048676">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600352211367" />
+    <state width="1493" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600353048676" />
     <state width="1235" height="399" key="GridCell.Tab.0.center/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599764669748" />
-    <state width="1493" height="268" key="GridCell.Tab.0.left" timestamp="1600352211367">
+    <state width="1493" height="268" key="GridCell.Tab.0.left" timestamp="1600353048675">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600352211367" />
+    <state width="1493" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600353048675" />
     <state width="1235" height="399" key="GridCell.Tab.0.left/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599764669748" />
-    <state width="1493" height="268" key="GridCell.Tab.0.right" timestamp="1600352211367">
+    <state width="1493" height="268" key="GridCell.Tab.0.right" timestamp="1600353048676">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600352211367" />
+    <state width="1493" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600353048676" />
     <state width="1235" height="399" key="GridCell.Tab.0.right/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599764669748" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1600329651949">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600329651949" />
-    <state x="722" y="257" key="Vcs.Push.Dialog.v2" timestamp="1600352322193">
+    <state x="722" y="257" key="Vcs.Push.Dialog.v2" timestamp="1600352508257">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="722" y="257" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600352322193" />
+    <state x="722" y="257" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600352508257" />
     <state x="1512" y="437" key="Vcs.Push.Dialog.v2/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599760601108" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1600344750366">
       <screen x="0" y="0" width="1536" height="824" />
@@ -323,6 +338,7 @@
     <SUITE FILE_PATH="coverage/HU$whileLoopAndStrings.coverage" NAME="whileLoopAndStrings Coverage Results" MODIFIED="1598974973781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8/subject_8_2" />
     <SUITE FILE_PATH="coverage/HU$forIfVowels.coverage" NAME="forIfVowels Coverage Results" MODIFIED="1598967592013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/subject_4_6" />
     <SUITE FILE_PATH="coverage/HU_Python$ns_functies.coverage" NAME="ns-functies Coverage Results" MODIFIED="1600333908245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FA_2" />
+    <SUITE FILE_PATH="coverage/HU_Python$sprint_1.coverage" NAME="sprint_1 Coverage Results" MODIFIED="1600353048664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sprint_1" />
     <SUITE FILE_PATH="coverage/HU$filesAnalyseren.coverage" NAME="filesAnalyseren Coverage Results" MODIFIED="1598972031976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/subject_6_3" />
     <SUITE FILE_PATH="coverage/HU$listsAndStrings.coverage" NAME="listsAndStrings Coverage Results" MODIFIED="1598964537260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/subject2_1" />
     <SUITE FILE_PATH="coverage/HU$inputOutput.coverage" NAME="inputOutput Coverage Results" MODIFIED="1599138744182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/subject_3_3" />
