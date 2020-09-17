@@ -31,7 +31,7 @@ def check_availability():
             available_lockers.remove(str(items[0]))
 
     except FileNotFoundError:
-        return
+        return displaymenu()
 
 
 def assign_locker():
@@ -46,15 +46,21 @@ def assign_locker():
 
         file.write("{};{}\n".format(locker_number, password))
         print('You have locker: {}'.format(locker_number))
+        return displaymenu()
     except IndexError:
         print('There are no available lockers :(')
-        return
+        return displaymenu()
 
 
 def open_locker():
     while True:
         try:
-            file = open(filename, mode="r+")
+            try:
+                file = open(filename, mode="r+")
+            except FileNotFoundError:
+                print('There are no lockers in use..')
+                return displaymenu()
+
             lockerNumber = str(input("Enter your locker number: "))
             for line in file:
                 items = line.split(";")
@@ -62,7 +68,7 @@ def open_locker():
                     password = str(input("Enter password for locker {}: ".format(lockerNumber)))
                     if str(password) == str(items[1].strip()):
                         print("Your locker is open!")
-                        return
+                        return displaymenu()
                     else:
                         print('Incorrect password...')
 
@@ -75,7 +81,11 @@ def free_locker():
     lines = ''
     while oldLine == '':
         lockerNumber = str(input("Enter your locker number: "))
-        a_file = open(filename, mode="r+")
+        try:
+            a_file = open(filename, mode="r+")
+        except FileNotFoundError:
+            print('There are no lockers in use..')
+            return displaymenu()
         lines = a_file.readlines()
         a_file.close()
         for line in lines:
@@ -92,6 +102,7 @@ def free_locker():
             file.write(currentline)
 
     print('Your locker is free and your information has been deleted!')
+    displaymenu()
 
 choice = displaymenu()
 
