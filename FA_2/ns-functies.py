@@ -56,6 +56,7 @@ except ValueError:
 #               "Heeft als kosten: €{:,.2f}\n"
 #               .format(i+1, leeftijd, bool(weekend), afstandKM, kosten)
 #               )
+
 # def hcTestcases():
 #     print('€{:,.2f}'.format(ritprijs(11, 0, 40)))
 #     print('€{:,.2f}'.format(ritprijs(12, 0, 40)))
@@ -87,6 +88,5 @@ except ValueError:
 #     print('€{:,.2f}'.format(ritprijs(64, 1, 0)))
 #     print('€{:,.2f}\n'.format(ritprijs(65, 1, 0)))
 
-
 # hcTestcases()
-# testIterations(20)
+# testIterations(24)
