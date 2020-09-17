@@ -54,48 +54,42 @@ def assign_locker():
 def open_locker():
     while True:
         try:
+            file = open(filename, mode="r+")
             lockerNumber = str(input("Enter your locker number: "))
-            file = open(filename, mode="r")
             for line in file:
                 items = line.split(";")
-                if items[0] == lockerNumber:
+                if str(items[0]) == str(lockerNumber):
                     password = str(input("Enter password for locker {}: ".format(lockerNumber)))
                     if str(password) == str(items[1].strip()):
                         print("Your locker is open!")
                         return
                     else:
                         print('Incorrect password...')
-                else:
-                    print('Locker not found. Please try again')
 
         except ValueError:
             print("Locker not found.")
 
 
 def free_locker():
-    while True:
-        try:
-            locker_number = str(input("Enter your locker number: "))
-            file = open(filename, mode="w+")
-            lines = file.readlines()
-            for line in lines:
-                items = line.split(";")
-                if str(items[0]) == str(locker_number):
-                    password = str(input("Enter password for locker {}: ".format(locker_number)))
-                    if str(password) == str(items[1].strip()):
-                        del lines[(int(locker_number) - 1)]
-                        for new_line in lines:
-                            file.write(new_line)
-                        print("Your locker is free and your information has been deleted from our system.")
-                        return
-                    else:
-                        print('Incorrect password...')
-                else:
-                    print('Locker not found. Please try again')
+    oldLine = ''
+    lines = ''
+    while oldLine == '':
+        lockerNumber = str(input("Enter your locker number: "))
+        a_file = open(filename, mode="r+")
+        lines = a_file.readlines()
+        a_file.close()
+        for line in lines:
+            items = line.split(";")
+            if str(items[0]) == str(lockerNumber):
+                password = str(input("Enter password for locker {}: ".format(lockerNumber)))
+                if str(password) == str(items[1].strip()):
+                    oldLine = line
+                    break
 
-        except ValueError:
-            print("Locker not found.")
-
+    file = open(filename, mode="w+")
+    for currentline in lines:
+        if currentline.strip() != oldLine.strip():
+            file.write(currentline)
 
 choice = displaymenu()
 

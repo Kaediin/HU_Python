@@ -180,7 +180,8 @@
       <workItem from="1598964351432" duration="11502000" />
       <workItem from="1599138391353" duration="3190000" />
       <workItem from="1599755601463" duration="9034000" />
-      <workItem from="1600329608620" duration="6788000" />
+      <workItem from="1600329608620" duration="6815000" />
+      <workItem from="1600344749398" duration="4133000" />
     </task>
     <task id="LOCAL-00001" summary="Completed FA-2">
       <created>1599760599591</created>
@@ -203,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600333976738</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="FA-3 W.I.P">
+      <created>1600338593122</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600338593122</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,9 +219,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed FA-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed FA-2" />
+    <MESSAGE value="FA-3 W.I.P" />
+    <option name="LAST_COMMIT_MESSAGE" value="FA-3 W.I.P" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1600348537705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1600348537705" />
     <state x="526" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600335793288">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -222,44 +235,44 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1650" y="451" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599764614133" />
-    <state x="787" y="14" key="CommitChangelistDialog2" timestamp="1600333976083">
+    <state x="787" y="14" key="CommitChangelistDialog2" timestamp="1600338592446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="787" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600333976083" />
+    <state x="787" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600338592446" />
     <state x="1543" y="272" key="CommitChangelistDialog2/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599760598838" />
-    <state width="1493" height="268" key="GridCell.Tab.0.bottom" timestamp="1600337018562">
+    <state width="1493" height="268" key="GridCell.Tab.0.bottom" timestamp="1600348907482">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600337018562" />
+    <state width="1493" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600348907482" />
     <state width="1235" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599764669748" />
-    <state width="1493" height="268" key="GridCell.Tab.0.center" timestamp="1600337018562">
+    <state width="1493" height="268" key="GridCell.Tab.0.center" timestamp="1600348907482">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600337018562" />
+    <state width="1493" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600348907482" />
     <state width="1235" height="399" key="GridCell.Tab.0.center/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599764669748" />
-    <state width="1493" height="268" key="GridCell.Tab.0.left" timestamp="1600337018562">
+    <state width="1493" height="268" key="GridCell.Tab.0.left" timestamp="1600348907482">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600337018562" />
+    <state width="1493" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600348907482" />
     <state width="1235" height="399" key="GridCell.Tab.0.left/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599764669748" />
-    <state width="1493" height="268" key="GridCell.Tab.0.right" timestamp="1600337018562">
+    <state width="1493" height="268" key="GridCell.Tab.0.right" timestamp="1600348907482">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600337018562" />
+    <state width="1493" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600348907482" />
     <state width="1235" height="399" key="GridCell.Tab.0.right/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599764669748" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1600329651949">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600329651949" />
-    <state x="722" y="257" key="Vcs.Push.Dialog.v2" timestamp="1600333980018">
+    <state x="722" y="257" key="Vcs.Push.Dialog.v2" timestamp="1600338594892">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="722" y="257" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600333980018" />
+    <state x="722" y="257" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600338594892" />
     <state x="1512" y="437" key="Vcs.Push.Dialog.v2/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599760601108" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1599138459165">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1600344750366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1599138459165" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1600344750366" />
     <state x="1373" y="100" width="1093" height="1207" key="dock-window-1" timestamp="1599761041459">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -293,6 +306,6 @@
     <SUITE FILE_PATH="coverage/HU$userInputAndException.coverage" NAME="userInputAndException Coverage Results" MODIFIED="1598976084021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9/subject_9_5" />
     <SUITE FILE_PATH="coverage/HU$ifElse.coverage" NAME="ifElse Coverage Results" MODIFIED="1598967330648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/subject_4_3" />
     <SUITE FILE_PATH="coverage/HU$dictAndFunctions.coverage" NAME="dictAndFunctions Coverage Results" MODIFIED="1598975297143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8/subject_8_5" />
-    <SUITE FILE_PATH="coverage/HU_Python$bagagekluizen.coverage" NAME="bagagekluizen Coverage Results" MODIFIED="1600337018552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FA_3" />
+    <SUITE FILE_PATH="coverage/HU_Python$bagagekluizen.coverage" NAME="bagagekluizen Coverage Results" MODIFIED="1600348886673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FA_3" />
   </component>
 </project>
