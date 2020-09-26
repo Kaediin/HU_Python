@@ -1,5 +1,4 @@
 import random
-# TEST FUNCTIES STAAN ONDERAAN UITGECOMMENTARIEERD
 
 def standaardprijs(afstandKM):
     vasteKosten = 0
@@ -58,36 +57,38 @@ except ValueError:
 #               .format(i+1, leeftijd, bool(weekend), afstandKM, kosten)
 #               )
 
-# def hcTestcases():
-#     print('€{:,.2f}'.format(ritprijs(11, 0, 40)))
-#     print('€{:,.2f}'.format(ritprijs(12, 0, 40)))
-#     print('€{:,.2f}'.format(ritprijs(64, 0, 40)))
-#     print('€{:,.2f}\n'.format(ritprijs(65, 0, 40)))
-#
-#     print('€{:,.2f}'.format(ritprijs(11, 1, 40)))
-#     print('€{:,.2f}'.format(ritprijs(12, 1, 40)))
-#     print('€{:,.2f}'.format(ritprijs(64, 1, 40)))
-#     print('€{:,.2f}\n'.format(ritprijs(65, 1, 40)))
-#
-#     print('€{:,.2f}'.format(ritprijs(11, 0, 80)))
-#     print('€{:,.2f}'.format(ritprijs(12, 0, 80)))
-#     print('€{:,.2f}'.format(ritprijs(64, 0, 80)))
-#     print('€{:,.2f}\n'.format(ritprijs(65, 0, 80)))
-#
-#     print('€{:,.2f}'.format(ritprijs(11, 1, 80)))
-#     print('€{:,.2f}'.format(ritprijs(12, 1, 80)))
-#     print('€{:,.2f}'.format(ritprijs(64, 1, 80)))
-#     print('€{:,.2f}\n'.format(ritprijs(65, 1, 80)))
-#
-#     print('€{:,.2f}'.format(ritprijs(11, 0, 0)))
-#     print('€{:,.2f}'.format(ritprijs(12, 0, 0)))
-#     print('€{:,.2f}'.format(ritprijs(64, 0, 0)))
-#     print('€{:,.2f}\n'.format(ritprijs(65, 0, 0)))
-#
-#     print('€{:,.2f}'.format(ritprijs(11, 1, 0)))
-#     print('€{:,.2f}'.format(ritprijs(12, 1, 0)))
-#     print('€{:,.2f}'.format(ritprijs(64, 1, 0)))
-#     print('€{:,.2f}\n'.format(ritprijs(65, 1, 0)))
+def hcTestcases():
+    print('€{:,.2f}'.format(ritprijs(11, 0, 40)))
+    print('€{:,.2f}'.format(ritprijs(12, 0, 40)))
+    print('€{:,.2f}'.format(ritprijs(64, 0, 40)))
+    print('€{:,.2f}\n'.format(ritprijs(65, 0, 40)))
 
-# hcTestcases()
+    print('€{:,.2f}'.format(ritprijs(11, 1, 40)))
+    print('€{:,.2f}'.format(ritprijs(12, 1, 40)))
+    print('€{:,.2f}'.format(ritprijs(64, 1, 40)))
+    print('€{:,.2f}\n'.format(ritprijs(65, 1, 40)))
+
+    print('€{:,.2f}'.format(ritprijs(11, 0, 80)))
+    print('€{:,.2f}'.format(ritprijs(12, 0, 80)))
+    print('€{:,.2f}'.format(ritprijs(64, 0, 80)))
+    print('€{:,.2f}\n'.format(ritprijs(65, 0, 80)))
+
+    print('€{:,.2f}'.format(ritprijs(11, 1, 80)))
+    print('€{:,.2f}'.format(ritprijs(12, 1, 80)))
+    print('€{:,.2f}'.format(ritprijs(64, 1, 80)))
+    print('€{:,.2f}\n'.format(ritprijs(65, 1, 80)))
+
+    print('€{:,.2f}'.format(ritprijs(11, 0, 0)))
+    print('€{:,.2f}'.format(ritprijs(12, 0, 0)))
+    print('€{:,.2f}'.format(ritprijs(64, 0, 0)))
+    print('€{:,.2f}\n'.format(ritprijs(65, 0, 0)))
+
+    print('€{:,.2f}'.format(ritprijs(11, 1, 0)))
+    print('€{:,.2f}'.format(ritprijs(12, 1, 0)))
+    print('€{:,.2f}'.format(ritprijs(64, 1, 0)))
+    print('€{:,.2f}\n'.format(ritprijs(65, 1, 0)))
+
+
+hcTestcases()
+
 # testIterations(24)
