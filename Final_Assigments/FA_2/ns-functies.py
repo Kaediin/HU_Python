@@ -58,36 +58,61 @@ except ValueError:
 #               )
 
 def hcTestcases():
-    print('€{:,.2f}'.format(ritprijs(11, 0, 40)))
-    print('€{:,.2f}'.format(ritprijs(12, 0, 40)))
-    print('€{:,.2f}'.format(ritprijs(64, 0, 40)))
-    print('€{:,.2f}\n'.format(ritprijs(65, 0, 40)))
 
-    print('€{:,.2f}'.format(ritprijs(11, 1, 40)))
-    print('€{:,.2f}'.format(ritprijs(12, 1, 40)))
-    print('€{:,.2f}'.format(ritprijs(64, 1, 40)))
-    print('€{:,.2f}\n'.format(ritprijs(65, 1, 40)))
-
-    print('€{:,.2f}'.format(ritprijs(11, 0, 80)))
-    print('€{:,.2f}'.format(ritprijs(12, 0, 80)))
-    print('€{:,.2f}'.format(ritprijs(64, 0, 80)))
-    print('€{:,.2f}\n'.format(ritprijs(65, 0, 80)))
-
-    print('€{:,.2f}'.format(ritprijs(11, 1, 80)))
-    print('€{:,.2f}'.format(ritprijs(12, 1, 80)))
-    print('€{:,.2f}'.format(ritprijs(64, 1, 80)))
-    print('€{:,.2f}\n'.format(ritprijs(65, 1, 80)))
-
+    # 0km
+    # 11 jaar
     print('€{:,.2f}'.format(ritprijs(11, 0, 0)))
-    print('€{:,.2f}'.format(ritprijs(12, 0, 0)))
-    print('€{:,.2f}'.format(ritprijs(64, 0, 0)))
-    print('€{:,.2f}\n'.format(ritprijs(65, 0, 0)))
-
     print('€{:,.2f}'.format(ritprijs(11, 1, 0)))
-    print('€{:,.2f}'.format(ritprijs(12, 1, 0)))
-    print('€{:,.2f}'.format(ritprijs(64, 1, 0)))
-    print('€{:,.2f}\n'.format(ritprijs(65, 1, 0)))
 
+    # 12 jaar
+    print('€{:,.2f}'.format(ritprijs(12, 0, 0)))
+    print('€{:,.2f}'.format(ritprijs(12, 1, 0)))
+
+    # 64 jaar
+    print('€{:,.2f}'.format(ritprijs(64, 0, 0)))
+    print('€{:,.2f}'.format(ritprijs(64, 1, 0)))
+
+    # 65 jaar
+    print('€{:,.2f}'.format(ritprijs(65, 0, 0)))
+    print('€{:,.2f}'.format(ritprijs(65, 1, 0)))
+
+
+
+    # 40km
+    # 11 jaar
+    print('€{:,.2f}'.format(ritprijs(11, 0, 40)))
+    print('€{:,.2f}'.format(ritprijs(11, 1, 40)))
+
+    # 12 jaar
+    print('€{:,.2f}'.format(ritprijs(12, 0, 40)))
+    print('€{:,.2f}'.format(ritprijs(12, 1, 40)))
+
+    # 64 jaar
+    print('€{:,.2f}'.format(ritprijs(64, 0, 40)))
+    print('€{:,.2f}'.format(ritprijs(64, 1, 40)))
+
+    # 65 jaar
+    print('€{:,.2f}'.format(ritprijs(65, 0, 40)))
+    print('€{:,.2f}'.format(ritprijs(65, 1, 40)))
+
+
+
+    # 80km
+    # 11 jaar
+    print('€{:,.2f}'.format(ritprijs(11, 0, 80)))
+    print('€{:,.2f}'.format(ritprijs(11, 1, 80)))
+
+    # 12 jaar
+    print('€{:,.2f}'.format(ritprijs(12, 0, 80)))
+    print('€{:,.2f}'.format(ritprijs(12, 1, 80)))
+
+    # 64 jaar
+    print('€{:,.2f}'.format(ritprijs(64, 0, 80)))
+    print('€{:,.2f}'.format(ritprijs(64, 1, 80)))
+
+    # 65 jaar
+    print('€{:,.2f}'.format(ritprijs(65, 0, 80)))
+    print('€{:,.2f}'.format(ritprijs(65, 1, 80)))
 
 hcTestcases()
 
