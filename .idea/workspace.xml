@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30d5a3f9-a51e-40b9-840f-c3dee8dac3f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Sprints/Sprint_3/sprint_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprints/Sprint_4/gui_moderator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprints/Sprint_4/gui_scherm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprints/Sprint_4/gui_tweet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprints/Sprint_4/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sprints/Sprint_4/postgresql_db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HU.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HU.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Final_Assigments/FA_2/ns-functies.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Assigments/FA_2/ns-functies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprints/Sprint_2/sprint_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sprints/Sprint_2/sprint_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,23 +41,24 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter_3/subject_3_3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Skaed\PycharmProjects\HU_Python\Sprints\Sprint_4" />
+      <recent name="C:\Users\Skaed\PycharmProjects\HU_Python\FA_1" />
+      <recent name="C:\Users\Skaed\PycharmProjects\HU\Chapter_10" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Skaed\PycharmProjects\HU_Python\Chapter_3\subject_3_3" />
       <recent name="C:\Users\Skaed\PycharmProjects\HU\Chapter_10\subject_10_2" />
       <recent name="C:\Users\Skaed\PycharmProjects\HU\Chapter_8\subject_8_2" />
       <recent name="C:\Users\Skaed\PycharmProjects\HU\Chapter_6\subject_6_4" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Skaed\PycharmProjects\HU_Python\FA_1" />
-      <recent name="C:\Users\Skaed\PycharmProjects\HU\Chapter_10" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.ns-functies (1)">
-    <configuration name="bagagekluizen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.index">
+    <configuration name="gui_tweet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HU" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,12 +66,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FA_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sprints/Sprint_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FA_3/bagagekluizen.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sprints/Sprint_4/gui_tweet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="kaartautomaat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HU" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,12 +88,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FA_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sprints/Sprint_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FA_4/kaartautomaat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sprints/Sprint_4/index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ns-functies (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="postgresql_db" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HU" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,12 +110,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final_Assigments/FA_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sprints/Sprint_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final_Assigments/FA_2/ns-functies.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sprints/Sprint_4/postgresql_db.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ns-functies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sprint4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HU" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,12 +132,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FA_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sprints/Sprint_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FA_2/ns-functies.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sprints/Sprint_4/sprint4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sprint_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sprint4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HU" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,12 +154,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sprint_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sprints" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sprint_1/sprint_1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Skaed\PycharmProjects\HU_Python\Sprints\Sprint_4\sprint4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sprint_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HU" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sprints/Sprint_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sprints/Sprint_3/sprint_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ns-functies (1)" />
-        <item itemvalue="Python.sprint_1" />
-        <item itemvalue="Python.bagagekluizen" />
-        <item itemvalue="Python.kaartautomaat" />
-        <item itemvalue="Python.ns-functies" />
+        <item itemvalue="Python.index" />
+        <item itemvalue="Python.gui_tweet" />
+        <item itemvalue="Python.postgresql_db" />
+        <item itemvalue="Python.sprint4 (1)" />
+        <item itemvalue="Python.sprint4 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -186,6 +218,18 @@
       <workItem from="1601138703625" duration="60000" />
       <workItem from="1601232133864" duration="1001000" />
       <workItem from="1601369504132" duration="621000" />
+      <workItem from="1601471882544" duration="531000" />
+      <workItem from="1601553348365" duration="1357000" />
+      <workItem from="1601566620653" duration="596000" />
+      <workItem from="1601629508564" duration="3126000" />
+      <workItem from="1601632666158" duration="342000" />
+      <workItem from="1601633349336" duration="1268000" />
+      <workItem from="1601639392746" duration="6714000" />
+      <workItem from="1601737627042" duration="7283000" />
+      <workItem from="1601747051255" duration="1136000" />
+      <workItem from="1601827591156" duration="623000" />
+      <workItem from="1601830507750" duration="2017000" />
+      <workItem from="1601968711083" duration="2328000" />
     </task>
     <task id="LOCAL-00001" summary="Completed FA-2">
       <created>1599760599591</created>
@@ -285,58 +329,78 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1600348537705" />
-    <state x="526" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600335793288">
+    <state x="526" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601632281900">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="526" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1600335793288" />
-    <state x="990" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600352173910">
+    <state x="526" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1601632281900" />
+    <state x="990" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601632328483">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="990" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600352173910" />
+    <state x="990" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601632328483" />
     <state x="1650" y="451" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599764614133" />
-    <state x="787" y="14" key="CommitChangelistDialog2" timestamp="1601138733773">
+    <state x="787" y="14" key="CommitChangelistDialog2" timestamp="1601370137027">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="787" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601138733773" />
+    <state x="787" y="14" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601370137027" />
     <state x="1543" y="272" key="CommitChangelistDialog2/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599760598838" />
-    <state width="1493" height="268" key="GridCell.Tab.0.bottom" timestamp="1601233135153">
+    <state x="626" y="236" key="FileChooserDialogImpl" timestamp="1601641260180">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1280.680@0.0.1536.824" timestamp="1601233135153" />
-    <state width="1493" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600353048676" />
+    <state x="626" y="236" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601641260180" />
+    <state width="1493" height="268" key="GridCell.Tab.0.bottom" timestamp="1601748497982">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1280.680@0.0.1536.824" timestamp="1601748497982" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601672298189" />
     <state width="1235" height="399" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599764669748" />
-    <state width="1493" height="268" key="GridCell.Tab.0.center" timestamp="1601233135153">
+    <state width="1493" height="268" key="GridCell.Tab.0.center" timestamp="1601748497982">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1280.680@0.0.1536.824" timestamp="1601233135153" />
-    <state width="1493" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600353048676" />
+    <state width="1493" height="268" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1280.680@0.0.1536.824" timestamp="1601748497982" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601672298189" />
     <state width="1235" height="399" key="GridCell.Tab.0.center/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599764669748" />
-    <state width="1493" height="268" key="GridCell.Tab.0.left" timestamp="1601233135153">
+    <state width="1493" height="268" key="GridCell.Tab.0.left" timestamp="1601748497982">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1280.680@0.0.1536.824" timestamp="1601233135153" />
-    <state width="1493" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600353048675" />
+    <state width="1493" height="268" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1280.680@0.0.1536.824" timestamp="1601748497982" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601672298189" />
     <state width="1235" height="399" key="GridCell.Tab.0.left/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599764669748" />
-    <state width="1493" height="268" key="GridCell.Tab.0.right" timestamp="1601233135153">
+    <state width="1493" height="268" key="GridCell.Tab.0.right" timestamp="1601748497982">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="268" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1280.680@0.0.1536.824" timestamp="1601233135153" />
-    <state width="1493" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600353048676" />
+    <state width="1493" height="268" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1280.680@0.0.1536.824" timestamp="1601748497982" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601672298189" />
     <state width="1235" height="399" key="GridCell.Tab.0.right/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599764669748" />
-    <state x="277" y="55" key="SettingsEditor" timestamp="1600329651949">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1601672298189">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600329651949" />
-    <state x="722" y="257" key="Vcs.Push.Dialog.v2" timestamp="1601138736394">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601672298189" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1601672298189">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="722" y="257" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601138736394" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601672298189" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1601672298189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601672298189" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1601672298189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601672298189" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1601641267465">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601641267465" />
+    <state x="722" y="257" key="Vcs.Push.Dialog.v2" timestamp="1601370139565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="257" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601370139565" />
     <state x="1512" y="437" key="Vcs.Push.Dialog.v2/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599760601108" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1601369516038">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1601827591456">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/0.-1080.1280.680@0.0.1536.824" timestamp="1601232134261" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1601369516038" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/0.-1080.1280.680@0.0.1536.824" timestamp="1601747052122" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1601827591456" />
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601138707981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -349,34 +413,54 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1373" y="100" width="1093" height="1207" key="dock-window-2/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1599761041459" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1598967072200">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1601642095940">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1598967072200" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1601642095940" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint suspend="NONE" type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HU$index.coverage" NAME="index Coverage Results" MODIFIED="1598970885198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/subject_6_3" />
-    <SUITE FILE_PATH="coverage/HU$whileLoopAndStrings.coverage" NAME="whileLoopAndStrings Coverage Results" MODIFIED="1598974973781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8/subject_8_2" />
     <SUITE FILE_PATH="coverage/HU$forIfVowels.coverage" NAME="forIfVowels Coverage Results" MODIFIED="1598967592013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/subject_4_6" />
-    <SUITE FILE_PATH="coverage/HU_Python$ns_functies.coverage" NAME="ns-functies Coverage Results" MODIFIED="1600333908245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FA_2" />
     <SUITE FILE_PATH="coverage/HU_Python$sprint_1.coverage" NAME="sprint_1 Coverage Results" MODIFIED="1600353048664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sprint_1" />
     <SUITE FILE_PATH="coverage/HU$filesAnalyseren.coverage" NAME="filesAnalyseren Coverage Results" MODIFIED="1598972031976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/subject_6_3" />
-    <SUITE FILE_PATH="coverage/HU$listsAndStrings.coverage" NAME="listsAndStrings Coverage Results" MODIFIED="1598964537260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/subject2_1" />
     <SUITE FILE_PATH="coverage/HU$inputOutput.coverage" NAME="inputOutput Coverage Results" MODIFIED="1599138744182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/subject_3_3" />
+    <SUITE FILE_PATH="coverage/HU_Python$index.coverage" NAME="index Coverage Results" MODIFIED="1601747542328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sprints/Sprint_4" />
+    <SUITE FILE_PATH="coverage/HU_Python$tkinter.coverage" NAME="gui_check Coverage Results" MODIFIED="1601737901164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sprints" />
     <SUITE FILE_PATH="coverage/HU$fileSchrijven.coverage" NAME="fileSchrijven Coverage Results" MODIFIED="1598973567583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/subject_6_4" />
     <SUITE FILE_PATH="coverage/HU_Python$inputOutput.coverage" NAME="inputOutput Coverage Results" MODIFIED="1599755668302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/subject_3_3" />
-    <SUITE FILE_PATH="coverage/HU_Python$ns_functies__1_.coverage" NAME="ns-functies (1) Coverage Results" MODIFIED="1601232543295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Final_Assigments/FA_2" />
-    <SUITE FILE_PATH="coverage/HU$booleanExpressions.coverage" NAME="booleanExpressions Coverage Results" MODIFIED="1598971706751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_1/subject_1_4" />
+    <SUITE FILE_PATH="coverage/HU_Python$gui_check__1_.coverage" NAME="gui_check (1) Coverage Results" MODIFIED="1601738484091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sprints" />
     <SUITE FILE_PATH="coverage/HU$functionImmutableParams.coverage" NAME="functionImmutableParams Coverage Results" MODIFIED="1598968109923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/subject_5_6" />
+    <SUITE FILE_PATH="coverage/HU_Python$filesAnalyseren.coverage" NAME="filesAnalyseren Coverage Results" MODIFIED="1599762270461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/subject_6_3" />
+    <SUITE FILE_PATH="coverage/HU_Python$postgresql_db.coverage" NAME="postgresql_db Coverage Results" MODIFIED="1601745740465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sprints/Sprint_4" />
+    <SUITE FILE_PATH="coverage/HU$nestedLoop.coverage" NAME="nestedLoop Coverage Results" MODIFIED="1598974261444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_7/subject_7_4" />
+    <SUITE FILE_PATH="coverage/HU_Python$sprint_3.coverage" NAME="sprint_3 Coverage Results" MODIFIED="1601632296756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sprints/Sprint_3" />
+    <SUITE FILE_PATH="coverage/HU_Python$bagagekluizen.coverage" NAME="bagagekluizen Coverage Results" MODIFIED="1600352177365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FA_3" />
+    <SUITE FILE_PATH="coverage/HU$whileLoopAndStrings.coverage" NAME="whileLoopAndStrings Coverage Results" MODIFIED="1598974973781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8/subject_8_2" />
+    <SUITE FILE_PATH="coverage/HU_Python$ns_functies.coverage" NAME="ns-functies Coverage Results" MODIFIED="1600333908245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FA_2" />
+    <SUITE FILE_PATH="coverage/HU$listsAndStrings.coverage" NAME="listsAndStrings Coverage Results" MODIFIED="1598964537260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/subject2_1" />
+    <SUITE FILE_PATH="coverage/HU_Python$db_koppeling.coverage" NAME="db_koppeling Coverage Results" MODIFIED="1601672243116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sprints/Sprint_3" />
+    <SUITE FILE_PATH="coverage/HU_Python$gui_tweet.coverage" NAME="gui_tweet Coverage Results" MODIFIED="1601746726220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sprints/Sprint_4" />
+    <SUITE FILE_PATH="coverage/HU_Python$ns_functies__1_.coverage" NAME="ns-functies (1) Coverage Results" MODIFIED="1601553965672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Final_Assigments/FA_2" />
+    <SUITE FILE_PATH="coverage/HU$booleanExpressions.coverage" NAME="booleanExpressions Coverage Results" MODIFIED="1598971706751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_1/subject_1_4" />
     <SUITE FILE_PATH="coverage/HU$numbersStringsConversion.coverage" NAME="numbersStringsConversion Coverage Results" MODIFIED="1598965980709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/subject_3_1" />
     <SUITE FILE_PATH="coverage/HU$functionWithIfMultipleConditions.coverage" NAME="functionWithIfMultipleConditions Coverage Results" MODIFIED="1598967793581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/subject_5_4" />
-    <SUITE FILE_PATH="coverage/HU_Python$filesAnalyseren.coverage" NAME="filesAnalyseren Coverage Results" MODIFIED="1599762270461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/subject_6_3" />
-    <SUITE FILE_PATH="coverage/HU$nestedLoop.coverage" NAME="nestedLoop Coverage Results" MODIFIED="1598974261444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_7/subject_7_4" />
+    <SUITE FILE_PATH="coverage/HU_Python$sprint4__1_.coverage" NAME="sprint4 (1) Coverage Results" MODIFIED="1601741782862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sprints/Sprint_4" />
     <SUITE FILE_PATH="coverage/HU$whileLoopAndNumbers.coverage" NAME="whileLoopAndNumbers Coverage Results" MODIFIED="1598974633062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8/subject_8_1" />
     <SUITE FILE_PATH="coverage/HU$userInputAndException.coverage" NAME="userInputAndException Coverage Results" MODIFIED="1598976084021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9/subject_9_5" />
     <SUITE FILE_PATH="coverage/HU$ifElse.coverage" NAME="ifElse Coverage Results" MODIFIED="1598967330648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/subject_4_3" />
+    <SUITE FILE_PATH="coverage/HU_Python$sprint_2.coverage" NAME="sprint_2 Coverage Results" MODIFIED="1601629848292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sprints/Sprint_2" />
     <SUITE FILE_PATH="coverage/HU$dictAndFunctions.coverage" NAME="dictAndFunctions Coverage Results" MODIFIED="1598975297143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8/subject_8_5" />
-    <SUITE FILE_PATH="coverage/HU_Python$bagagekluizen.coverage" NAME="bagagekluizen Coverage Results" MODIFIED="1600352177365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FA_3" />
     <SUITE FILE_PATH="coverage/HU_Python$kaartautomaat.coverage" NAME="kaartautomaat Coverage Results" MODIFIED="1600351530239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FA_4" />
   </component>
 </project>
