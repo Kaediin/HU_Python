@@ -1,5 +1,5 @@
 import PySimpleGUI as sg
-import Sprints.Sprint_4.postgresql_db as db
+import Semester_1.Sprints.Sprint_4.postgresql_db as db
 
 def start_tweet_gui():
     sg.theme('DarkAmber')

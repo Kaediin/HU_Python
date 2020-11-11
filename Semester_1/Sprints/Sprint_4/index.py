@@ -1,5 +1,5 @@
 import PySimpleGUI as sg
-import Sprints.Sprint_4.gui_tweet as tweet
+import Semester_1.Sprints.Sprint_4.gui_tweet as tweet
 sg.theme('DarkAmber')
 
 layout = [[sg.Text('NS-Twitterzuil Tweet service')],
