@@ -27,14 +27,15 @@ def is_even(n):
 
 def floor(real):
     # """ Retourneer het grootste gehele getal (int), dat kleiner dan of gelijk is aan real (float). """
-    return math.floor(real)
+
+    return int(real // 1)
 
 
 def ceil(real):
     # """ Retourneer het kleinste gehele getal (int), groter dan of gelijk aan real (float). """
-    return math.ceil(real)
+    return int(-1 * real // 1 * -1)
 
-#
+
 def div(n):
     """
     Retourneer een (natuurlijk) gesorteerde verzameling (list) van delers van n (int).
@@ -46,7 +47,7 @@ def div(n):
             divisors.append(x)
     return divisors
 
-#
+
 def is_prime(n):
     """
     Retourneer True als n (int) een priemgetal is, anders False. Je kunt gebruik maken van de functie 'div(n)'
@@ -63,10 +64,11 @@ def is_prime(n):
 
     i = 5
     while i * i <= n:
-        if n %i == 0 or n% (i+2) == 0:
+        if n % i == 0 or n % (i + 2) == 0:
             return False
         i = i + 6
     return True
+
 
 #
 def primefactors(n):
@@ -116,13 +118,23 @@ def gcd(a, b):
     else:
         return gcd(b, (a % b))
 
-#
+
+def my_abs(n):
+    """
+    Ik wist niet zeker of ik de ingebouwde abs function mocht gebruiken dus ik heb mijn eigen gemaakt
+
+    - Kaedin Schouten
+    """
+
+    return int((n ** 2) ** 0.5)
+
+
 def lcm(a, b):
     """
     Retourneer het kleinste gemene veelvoud, kgv (ofwel least common multiple, lcm) (int) van natuurlijke
     getallen a en b (beide int).
     """
-    return abs(a*b) // gcd(a, b)
+    return my_abs(a * b) // gcd(a, b)
 
 
 def add_frac(n1, d1, n2, d2):
@@ -152,7 +164,7 @@ def add_frac(n1, d1, n2, d2):
         return teller, d1
     else:
         teller = (n1 * d2) + (n2 * d1)
-        noemer = d1*d2
+        noemer = d1 * d2
         while (teller / 2).is_integer() and (noemer / 2).is_integer():
             teller = teller / 2
             noemer = noemer / 2
@@ -217,9 +229,9 @@ def test_floor():
         ((-1.95,), -2),
         ((0.05,), 0),
         ((-0.05,), -1),
-        ((0.0, ), 0),
-        ((1.0, ), 1),
-        ((-1.0, ), -1)
+        ((0.0,), 0),
+        ((1.0,), 1),
+        ((-1.0,), -1)
     ]
 
     for case in testcases:
@@ -238,9 +250,9 @@ def test_ceil():
         ((-1.95,), -1),
         ((0.05,), 1),
         ((-0.05,), 0),
-        ((0.0, ), 0),
-        ((1.0, ), 1),
-        ((-1.0, ), -1)
+        ((0.0,), 0),
+        ((1.0,), 1),
+        ((-1.0,), -1)
     ]
 
     for case in testcases:
