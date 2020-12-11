@@ -41,12 +41,11 @@ studentnummer = 1779004
         lijst aanneemt bij álle tussenstappen bij toepassing van
         bovenstaand sorteeralgoritme.
 
-        [ 4, 3, 1, 2 ] - Iteratie 1
+        [ 4, 3, 1, 2 ] - Iteratie 0
         [ 3, 4, 1, 2 ] - Iteratie 1
-        [ 1, 4, 3, 2 ] - Iteratie 1
-        [ 1, 3, 4, 2 ] - Iteratie 2
-        [ 1, 2, 4, 3 ] - Iteratie 2
-        [ 1, 2, 3, 4 ] - Iteratie 3
+        [ 3, 1, 4, 2 ] - Iteratie 2
+        [ 1, 3, 2, 4 ] - Iteratie 3
+        [ 1, 2, 3, 4 ] - Iteratie 4
 
     1b. Implementatie
         Implementeer het sorteeralgoritme in Python in een functie
@@ -66,6 +65,7 @@ studentnummer = 1779004
         -   Bij welke volgorde van de waarden in de lijst is het
             sorteeralgoritme het minst snel klaar (worst-case scenario)?
             Hoeveel vergelijkingen zijn nodig geweest?
+            
             
             [2, 3, 1]
             running time = Θ(3^2)
@@ -123,15 +123,29 @@ def my_sort(lst):
     Zorg dat de gegeven lijst niet verandert, maar geef een nieuwe, gesorteerde variant van de lijst terug.
     """
 
-    lst_sorted = lst.copy()
-    for i in range(len(lst_sorted)):
-        index = i
-        for j in range(i + 1, len(lst)):
-            if lst_sorted[index] > lst_sorted[j]:
-                index = j
-        lst_sorted[i], lst_sorted[index] = lst_sorted[index], lst_sorted[i]
+    nList = lst.copy()
 
-    return lst_sorted
+    list_lenth = len(nList)
+    i = 0
+    # Stap 1
+    while i < list_lenth:
+        try:
+            # porbeer volgende element te pakken, dit crashed als er geen volgende is
+            neighbour_val = nList[i + 1]
+        except IndexError:
+            # Einde van de lijst is bereikt, dus het is gesorteerd
+            return nList
+        current_val = nList[i]
+        if current_val > neighbour_val:
+            # stap 2
+            nList[i], nList[i + 1] = nList[i + 1], nList[i]
+            # Reset de loop (stap 4)
+            i = 0
+        else:
+            # Ga verder naar de volgende (stap 3)
+            i += 1
+
+    return nList
 
 
 def linear_search_recursive(lst, target):

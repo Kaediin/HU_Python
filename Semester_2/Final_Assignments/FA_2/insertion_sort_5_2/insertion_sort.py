@@ -1,5 +1,5 @@
-array = [1, 2, 3, 4]
-# array = [4, 2, 1, 3]
+# array = [1, 2, 3, 4]
+array = [4, 2, 1, 3]
 
 
 def ins_sort(arr):
