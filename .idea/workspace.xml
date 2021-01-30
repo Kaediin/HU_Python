@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30d5a3f9-a51e-40b9-840f-c3dee8dac3f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Semester_2/Final_Assignments/FA_3/practicum_3_statistiek_student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semester_3/Formatief_Algoritmisch_Programmeren.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +50,8 @@
       <recent name="C:\Users\Skaed\PycharmProjects\HU\Chapter_6\subject_6_4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.practicum_3_statistiek_student">
-    <configuration name="insertion_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Formatief_Algoritmisch_Programmeren">
+    <configuration name="Formatief_Algoritmisch_Programmeren" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HU" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,12 +59,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Semester_2/Final_Assignments/FA_2/insertion_sort_5_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Semester_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Semester_2/Final_Assignments/FA_2/insertion_sort_5_2/insertion_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Semester_3/Formatief_Algoritmisch_Programmeren.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,19 +159,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.insertion_sort" />
       <item itemvalue="Python.practicum_2_algoritmiek_student" />
       <item itemvalue="Python.recursive_ascii" />
-      <item itemvalue="Python tests. practicum_3_statistiek_student" />
       <item itemvalue="Python.practicum_3_statistiek_student" />
+      <item itemvalue="Python.Formatief_Algoritmisch_Programmeren" />
+      <item itemvalue="Python tests. practicum_3_statistiek_student" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Formatief_Algoritmisch_Programmeren" />
         <item itemvalue="Python.practicum_3_statistiek_student" />
         <item itemvalue="Python tests. practicum_3_statistiek_student" />
         <item itemvalue="Python.practicum_2_algoritmiek_student" />
         <item itemvalue="Python.recursive_ascii" />
-        <item itemvalue="Python.insertion_sort" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +203,10 @@
       <workItem from="1607624151015" duration="102000" />
       <workItem from="1607704636279" duration="4153000" />
       <workItem from="1610910228027" duration="671000" />
-      <workItem from="1611073291165" duration="4375000" />
+      <workItem from="1611073291165" duration="4690000" />
+      <workItem from="1611079430075" duration="146000" />
+      <workItem from="1611860266101" duration="4312000" />
+      <workItem from="1612015350692" duration="5741000" />
     </task>
     <task id="LOCAL-00001" summary="Completed FA-2">
       <created>1599760599591</created>
@@ -282,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601138734565</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added FA-3">
+      <created>1611079301811</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1611079301812</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,94 +306,41 @@
     <MESSAGE value="FA-3" />
     <MESSAGE value="FA-2 error catching" />
     <MESSAGE value="enables test functions in ns-functies.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="enables test functions in ns-functies.py" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="95" y="359" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611073704165">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="95" y="359" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/3840.547.1920.1040@0.0.2560.1400" timestamp="1611073704165" />
-    <state x="95" y="359" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1607259215322" />
-    <state x="741" y="203" key="FileChooserDialogImpl" timestamp="1607259275141">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="741" y="203" key="FileChooserDialogImpl/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1607259275141" />
-    <state width="1249" height="398" key="GridCell.Tab.0.bottom" timestamp="1611078958496">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1249" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.547.1920.1040@0.0.2560.1400" timestamp="1611078958496" />
-    <state width="1235" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1607708757000" />
-    <state width="1249" height="398" key="GridCell.Tab.0.center" timestamp="1611078958496">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1249" height="398" key="GridCell.Tab.0.center/0.0.2560.1400/3840.547.1920.1040@0.0.2560.1400" timestamp="1611078958496" />
-    <state width="1235" height="398" key="GridCell.Tab.0.center/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1607708757000" />
-    <state width="1249" height="398" key="GridCell.Tab.0.left" timestamp="1611078958496">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1249" height="398" key="GridCell.Tab.0.left/0.0.2560.1400/3840.547.1920.1040@0.0.2560.1400" timestamp="1611078958496" />
-    <state width="1235" height="398" key="GridCell.Tab.0.left/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1607708757000" />
-    <state width="1249" height="398" key="GridCell.Tab.0.right" timestamp="1611078958496">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1249" height="398" key="GridCell.Tab.0.right/0.0.2560.1400/3840.547.1920.1040@0.0.2560.1400" timestamp="1611078958496" />
-    <state width="1235" height="398" key="GridCell.Tab.0.right/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1607708757000" />
-    <state width="1235" height="492" key="GridCell.Tab.1.bottom" timestamp="1607706867342">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1235" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1607706867342" />
-    <state width="1235" height="492" key="GridCell.Tab.1.center" timestamp="1607706867342">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1235" height="492" key="GridCell.Tab.1.center/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1607706867342" />
-    <state width="1235" height="492" key="GridCell.Tab.1.left" timestamp="1607706867342">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1235" height="492" key="GridCell.Tab.1.left/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1607706867342" />
-    <state width="1235" height="492" key="GridCell.Tab.1.right" timestamp="1607706867342">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1235" height="492" key="GridCell.Tab.1.right/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1607706867342" />
-    <state x="462" y="93" key="SettingsEditor" timestamp="1607259282383">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="462" y="93" key="SettingsEditor/0.0.2560.1400/3840.558.1920.1040@0.0.2560.1400" timestamp="1607259282383" />
-    <state x="1625" y="433" width="587" height="534" key="find.popup" timestamp="1610910271691">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1625" y="433" width="587" height="534" key="find.popup/0.0.2560.1400/3840.547.1920.1040@0.0.2560.1400" timestamp="1610910271691" />
+    <MESSAGE value="Added FA-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added FA-3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/HU_Python$sprint_2.coverage" NAME="sprint_2 Coverage Results" MODIFIED="1600367155576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sprints/Sprint_2" />
     <SUITE FILE_PATH="coverage/HU_Python$kaartautomaat.coverage" NAME="kaartautomaat Coverage Results" MODIFIED="1600351530239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FA_4" />
-    <SUITE FILE_PATH="coverage/HU$booleanExpressions.coverage" NAME="booleanExpressions Coverage Results" MODIFIED="1598971706751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_1/subject_1_4" />
-    <SUITE FILE_PATH="coverage/HU_Python$filesAnalyseren.coverage" NAME="filesAnalyseren Coverage Results" MODIFIED="1599762270461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/subject_6_3" />
+    <SUITE FILE_PATH="coverage/HU$functionImmutableParams.coverage" NAME="functionImmutableParams Coverage Results" MODIFIED="1598968109923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/subject_5_6" />
+    <SUITE FILE_PATH="coverage/HU$index.coverage" NAME="index Coverage Results" MODIFIED="1598970885198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/subject_6_3" />
     <SUITE FILE_PATH="coverage/HU$userInputAndException.coverage" NAME="userInputAndException Coverage Results" MODIFIED="1598976084021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_9/subject_9_5" />
-    <SUITE FILE_PATH="coverage/HU_Python$ns_functies.coverage" NAME="ns-functies Coverage Results" MODIFIED="1600333908245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FA_2" />
-    <SUITE FILE_PATH="coverage/HU$whileLoopAndNumbers.coverage" NAME="whileLoopAndNumbers Coverage Results" MODIFIED="1598974633062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8/subject_8_1" />
-    <SUITE FILE_PATH="coverage/HU$listsAndStrings.coverage" NAME="listsAndStrings Coverage Results" MODIFIED="1598964537260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/subject2_1" />
     <SUITE FILE_PATH="coverage/HU_Python$bagagekluizen.coverage" NAME="bagagekluizen Coverage Results" MODIFIED="1600352177365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FA_3" />
     <SUITE FILE_PATH="coverage/HU_Python$Doctests_in_practicum_3_statistiek_student.coverage" NAME=" practicum_3_statistiek_student Coverage Results" MODIFIED="1611073706449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semester_2/Final_Assignments/FA_3" />
-    <SUITE FILE_PATH="coverage/HU$index.coverage" NAME="index Coverage Results" MODIFIED="1598970885198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/subject_6_3" />
-    <SUITE FILE_PATH="coverage/HU_Python$prime_numbers.coverage" NAME="prime_numbers Coverage Results" MODIFIED="1607261358074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semester_2/Final_Assignments/FA_2/binair_linear_4_1" />
-    <SUITE FILE_PATH="coverage/HU_Python$practicum_2_algoritmiek_student.coverage" NAME="practicum_2_algoritmiek_student Coverage Results" MODIFIED="1607708462142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semester_2/Final_Assignments/FA_2" />
     <SUITE FILE_PATH="coverage/HU_Python$sprint_1.coverage" NAME="sprint_1 Coverage Results" MODIFIED="1600353048664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sprint_1" />
-    <SUITE FILE_PATH="coverage/HU_Python$insertion_sort.coverage" NAME="insertion_sort Coverage Results" MODIFIED="1607594203807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semester_2/Final_Assignments/FA_2/insertion_sort_5_2" />
-    <SUITE FILE_PATH="coverage/HU_Python$recursive_ascii.coverage" NAME="recursive_ascii Coverage Results" MODIFIED="1607609768765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semester_2/Final_Assignments/FA_2/recursive_algorithms_6_2" />
-    <SUITE FILE_PATH="coverage/HU$functionWithIfMultipleConditions.coverage" NAME="functionWithIfMultipleConditions Coverage Results" MODIFIED="1598967793581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/subject_5_4" />
-    <SUITE FILE_PATH="coverage/HU_Python$practicum_3_statistiek_student.coverage" NAME="practicum_3_statistiek_student Coverage Results" MODIFIED="1611078958490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semester_2/Final_Assignments/FA_3" />
-    <SUITE FILE_PATH="coverage/HU$nestedLoop.coverage" NAME="nestedLoop Coverage Results" MODIFIED="1598974261444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_7/subject_7_4" />
-    <SUITE FILE_PATH="coverage/HU$inputOutput.coverage" NAME="inputOutput Coverage Results" MODIFIED="1599138744182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/subject_3_3" />
-    <SUITE FILE_PATH="coverage/HU$whileLoopAndStrings.coverage" NAME="whileLoopAndStrings Coverage Results" MODIFIED="1598974973781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8/subject_8_2" />
-    <SUITE FILE_PATH="coverage/HU$filesAnalyseren.coverage" NAME="filesAnalyseren Coverage Results" MODIFIED="1598972031976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/subject_6_3" />
-    <SUITE FILE_PATH="coverage/HU$ifElse.coverage" NAME="ifElse Coverage Results" MODIFIED="1598967330648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/subject_4_3" />
     <SUITE FILE_PATH="coverage/HU_Python$inputOutput.coverage" NAME="inputOutput Coverage Results" MODIFIED="1599755668302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/subject_3_3" />
     <SUITE FILE_PATH="coverage/HU$fileSchrijven.coverage" NAME="fileSchrijven Coverage Results" MODIFIED="1598973567583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/subject_6_4" />
-    <SUITE FILE_PATH="coverage/HU_Python$selection_sort.coverage" NAME="selection_sort Coverage Results" MODIFIED="1607590681681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semester_2/Final_Assignments/FA_2/selection_sort_5_1" />
-    <SUITE FILE_PATH="coverage/HU$dictAndFunctions.coverage" NAME="dictAndFunctions Coverage Results" MODIFIED="1598975297143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8/subject_8_5" />
+    <SUITE FILE_PATH="coverage/HU_Python$Formatief_Algoritmisch_Programmeren.coverage" NAME="Formatief_Algoritmisch_Programmeren Coverage Results" MODIFIED="1612021072064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semester_3" />
+    <SUITE FILE_PATH="coverage/HU$listsAndStrings.coverage" NAME="listsAndStrings Coverage Results" MODIFIED="1598964537260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_2/subject2_1" />
     <SUITE FILE_PATH="coverage/HU_Python$ns_functies__1_.coverage" NAME="ns-functies (1) Coverage Results" MODIFIED="1601232543295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Final_Assigments/FA_2" />
-    <SUITE FILE_PATH="coverage/HU$forIfVowels.coverage" NAME="forIfVowels Coverage Results" MODIFIED="1598967592013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/subject_4_6" />
+    <SUITE FILE_PATH="coverage/HU_Python$prime_numbers.coverage" NAME="prime_numbers Coverage Results" MODIFIED="1607261358074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semester_2/Final_Assignments/FA_2/binair_linear_4_1" />
+    <SUITE FILE_PATH="coverage/HU$nestedLoop.coverage" NAME="nestedLoop Coverage Results" MODIFIED="1598974261444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_7/subject_7_4" />
+    <SUITE FILE_PATH="coverage/HU_Python$practicum_2_algoritmiek_student.coverage" NAME="practicum_2_algoritmiek_student Coverage Results" MODIFIED="1607708462142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semester_2/Final_Assignments/FA_2" />
+    <SUITE FILE_PATH="coverage/HU_Python$insertion_sort.coverage" NAME="insertion_sort Coverage Results" MODIFIED="1607594203807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semester_2/Final_Assignments/FA_2/insertion_sort_5_2" />
+    <SUITE FILE_PATH="coverage/HU$ifElse.coverage" NAME="ifElse Coverage Results" MODIFIED="1598967330648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/subject_4_3" />
+    <SUITE FILE_PATH="coverage/HU_Python$practicum_3_statistiek_student.coverage" NAME="practicum_3_statistiek_student Coverage Results" MODIFIED="1611079220504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semester_2/Final_Assignments/FA_3" />
+    <SUITE FILE_PATH="coverage/HU$functionWithIfMultipleConditions.coverage" NAME="functionWithIfMultipleConditions Coverage Results" MODIFIED="1598967793581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/subject_5_4" />
+    <SUITE FILE_PATH="coverage/HU_Python$filesAnalyseren.coverage" NAME="filesAnalyseren Coverage Results" MODIFIED="1599762270461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/subject_6_3" />
+    <SUITE FILE_PATH="coverage/HU$inputOutput.coverage" NAME="inputOutput Coverage Results" MODIFIED="1599138744182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/subject_3_3" />
+    <SUITE FILE_PATH="coverage/HU$booleanExpressions.coverage" NAME="booleanExpressions Coverage Results" MODIFIED="1598971706751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_1/subject_1_4" />
+    <SUITE FILE_PATH="coverage/HU_Python$ns_functies.coverage" NAME="ns-functies Coverage Results" MODIFIED="1600333908245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FA_2" />
+    <SUITE FILE_PATH="coverage/HU$whileLoopAndStrings.coverage" NAME="whileLoopAndStrings Coverage Results" MODIFIED="1598974973781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8/subject_8_2" />
+    <SUITE FILE_PATH="coverage/HU_Python$selection_sort.coverage" NAME="selection_sort Coverage Results" MODIFIED="1607590681681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semester_2/Final_Assignments/FA_2/selection_sort_5_1" />
+    <SUITE FILE_PATH="coverage/HU$whileLoopAndNumbers.coverage" NAME="whileLoopAndNumbers Coverage Results" MODIFIED="1598974633062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8/subject_8_1" />
     <SUITE FILE_PATH="coverage/HU$numbersStringsConversion.coverage" NAME="numbersStringsConversion Coverage Results" MODIFIED="1598965980709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_3/subject_3_1" />
-    <SUITE FILE_PATH="coverage/HU$functionImmutableParams.coverage" NAME="functionImmutableParams Coverage Results" MODIFIED="1598968109923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_5/subject_5_6" />
+    <SUITE FILE_PATH="coverage/HU_Python$sprint_2.coverage" NAME="sprint_2 Coverage Results" MODIFIED="1600367155576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sprints/Sprint_2" />
+    <SUITE FILE_PATH="coverage/HU$forIfVowels.coverage" NAME="forIfVowels Coverage Results" MODIFIED="1598967592013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_4/subject_4_6" />
+    <SUITE FILE_PATH="coverage/HU$filesAnalyseren.coverage" NAME="filesAnalyseren Coverage Results" MODIFIED="1598972031976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_6/subject_6_3" />
+    <SUITE FILE_PATH="coverage/HU$dictAndFunctions.coverage" NAME="dictAndFunctions Coverage Results" MODIFIED="1598975297143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter_8/subject_8_5" />
+    <SUITE FILE_PATH="coverage/HU_Python$recursive_ascii.coverage" NAME="recursive_ascii Coverage Results" MODIFIED="1607609768765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semester_2/Final_Assignments/FA_2/recursive_algorithms_6_2" />
   </component>
 </project>
